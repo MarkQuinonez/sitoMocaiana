@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+</head>
+
+<body>
+<h1>Mocaiana</h1>
+<h2>Sagra della trippa</h2>
+<p>serate dedicate alla degustazione del piatto tipico in diverse ricette tutte da gustare </p>
+<img src = "festaMocaiana.jpg" alt="Mocaiana">
+</body>
+</html>
